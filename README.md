@@ -1,6 +1,8 @@
 # Android_Retrofit_Json_From_Array
 Fetching Data From Json Array in the API Using Retrofit
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Dependency
 ```
 implementation 'com.squareup.retrofit2:retrofit:2.9.0'
@@ -135,6 +137,7 @@ button.setOnClickListener(new View.OnClickListener() {
 
 # App Highlight
 
-<img src="app_images/Retrofit Json From Array Code.png" /><br>
+![Retrofit Json From Array App1](https://user-images.githubusercontent.com/74413402/192093621-19d265d5-02b7-4e55-9870-f0afea401456.png)
+![Retrofit Json From Array App2](https://user-images.githubusercontent.com/74413402/192093622-64e8478f-41eb-48b7-b45c-1db6a6f11d3b.png)
+![Retrofit Json From Array Code](https://user-images.githubusercontent.com/74413402/192093624-e0e11b5c-ac64-4520-9005-512599411d07.png)
 
-<img src="app_images/Retrofit Json From Array App1.png" width="300" /> <img src="app_images/Retrofit Json From Array App2.png" width="300" />
